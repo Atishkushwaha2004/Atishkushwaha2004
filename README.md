@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Hi%20there!%20I'm%20Atish%20Kushwaha%20👋&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=79c0ff" width="100%"/>55
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Hi%20there!%20I'm%20Atish%20Kushwaha%20👋&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=79c0ff" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+%26+FastAPI+Developer+%F0%9F%90%8D;Turning+Data+into+Insights+%F0%9F%92%A1)](https://git.io/typing-svg)
